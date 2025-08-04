@@ -1,0 +1,14 @@
+{
+  "name": "p5js-monopoly",
+  "version": "1.0.0",
+  "description": "poop",
+  "main": "src/sketch.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "p5": "^1.4.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
